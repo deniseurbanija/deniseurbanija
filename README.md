@@ -6,7 +6,6 @@
   <ul>
     <li>💡 I´m a Full Stack Developer with a focus on backend development.</li>
     <li>🎓 Currently pursuing a degree in Computer Science.</li>
-    <li>☁️ Learning about Cloud Computing and cloud architectures.</li>
     <li>🙋🏼‍♀️ Reach me out on <a href="https://linkedin.com/in/https://www.linkedin.com/in/denise-urbanija/">LinkedIn</a></li>
   </ul>
 <div>
