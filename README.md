@@ -1,23 +1,14 @@
 <div align="center">
-  <h1>Hi! I´m Denise ✨</h1>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2QzNXJjMWRnYm43N2pocWtmd2EwNWxkczV6aDR3N2pkb2V0Z3VociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" width="25%" align="right" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Inconsolata&weight=500&size=50&duration=3000&pause=100&color=FFC0CB&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hi+there!;I%27m+Denise%2C+a+20+years+old+Backend+Developer" width="70%"/>
+<br><br>
+<div align="center" style="margin-left: 20">
+      <h3>
+        💻 CS Student<br>
+        📚 Learning Cloud Computing<br>
+        🤍 Cats • Music • Fitness
+      </h3>
+    </div>
+<br><br><br>
 </div>
 
-<h3>About me</h3>
-  <ul>
-    <li>💡 I´m a Full Stack Developer with a focus on backend development.</li>
-    <li>🎓 Currently pursuing a degree in Computer Science.</li>
-    <li>🙋🏼‍♀️ Reach me out on <a href="https://linkedin.com/in/https://www.linkedin.com/in/denise-urbanija/">LinkedIn</a> or <a href="https://x.com/deniseurbanija">X</a></li>
-  </ul>
-<div>
-
-<h3>Main languages and Tools</h3>
-<p align="left">  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-</p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deniseurbanija&show_icons=true&locale=en&layout=compact" alt="deniseurbanija" /></p>
