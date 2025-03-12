@@ -4,8 +4,8 @@
 <br><br>
 <div align="center" style="margin-left: 20">
       <h3>
-        💻 CS Student<br>
-        📚 Learning Cloud Computing<br>
+        💻 CS Student & FullStack Developer<br>
+        📚 NestJS | React | AWS | Cypress<br>
         🤍 Cats • Music • Fitness
       </h3>
     </div>
