@@ -6,7 +6,6 @@
       <h3>
         💻 CS Student & FullStack Developer<br>
         📚 NestJS | React | AWS | Cypress<br>
-        🤍 Cats • Music • Fitness
       </h3>
     </div>
 <br><br><br>
